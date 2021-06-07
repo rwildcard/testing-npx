@@ -1,0 +1,19 @@
+{
+  "name": "testing-npx",
+  "version": "1.0.0",
+  "description": "This is a test to see how npx works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwildcard/testing-npx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwildcard/testing-npx/issues"
+  },
+  "homepage": "https://github.com/rwildcard/testing-npx#readme"
+}
