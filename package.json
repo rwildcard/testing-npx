@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rwildcard/testing-npx/issues"
   },
-  "homepage": "https://github.com/rwildcard/testing-npx#readme"
+  "homepage": "https://github.com/rwildcard/testing-npx#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
